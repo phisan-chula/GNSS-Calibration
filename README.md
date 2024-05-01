@@ -2,6 +2,11 @@
 
 Simulated Calibration Baseline
 Scenario : Wat Sutat
+Reference : Geod(ellps='WGS84')
+Target P2 at : 13.750000000 100.500000000
+               13°45′00.0″  100°30′00.0″ 
+Elevation P1/P2 HAE : -32.000 meter
+
 
 |    |   P1_lat | P1_lat_         |   P1_lng | P1_lng_          |   az12 | az12_     |      s12 |   baseline |
 |---:|---------:|:----------------|---------:|:-----------------|-------:|:----------|---------:|-----------:|
