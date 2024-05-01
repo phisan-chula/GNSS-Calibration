@@ -1,0 +1,4 @@
+#!/bin/sh
+set -x
+host_data_folder="/home/phisan/GT-Project/2024-PPP/data"
+docker run -it -v ${host_data_folder}:/data gnssanalysis/ginan:v3.0.0 bash
