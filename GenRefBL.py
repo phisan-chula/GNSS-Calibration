@@ -64,11 +64,11 @@ class BaseLine:
         COLS = [ 'baseline','s12', 
                  'P1_lat','P1_lng','P1_hae','P2_lat','P2_lng','P2_hae', 'faz1', 'faz2' ] 
         self.dfTABLE = pd.DataFrame( self.TABLE, columns=COLS )
-        FMT = (None, '.3f','.3f','.9f','.9f','.3f','.9f','.9f','.3f', '.7f', '.7f')
-        print( self.dfTABLE.to_markdown( floatfmt=FMT ) )
+        FMT = ( '.3f','.3f','.9f','.9f','.3f','.9f','.9f','.3f', '.7f', '.7f')
+        print( self.dfTABLE.to_markdown( floatfmt=FMT, index=False ) )
         self.dfTABLE_ = pd.DataFrame( self.TABLE_, columns=COLS )
-        FMT_ = (None, '.3f','.3f',None,None,'.3f',None,None,'.3f',None,None)
-        print( self.dfTABLE_.to_markdown( floatfmt=FMT_  ) )
+        FMT_ = ( '.3f','.3f',None,None,'.3f',None,None,'.3f',None,None)
+        print( self.dfTABLE_.to_markdown( floatfmt=FMT_ , index=False ) )
         self.dfTABLE_.to_pickle( "./TableBaseline.pkl" )
 
     def TableAppend(self, lat1, lon1 ):
