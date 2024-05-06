@@ -1,11 +1,11 @@
 # GNSS-Calibration
 <pre>
-Simulated Calibration Baseline</br>
-Scenario       : Wat Sutat</br>
-Reference      : Geod(ellps='WGS84')</br>
-Target P2 at   : 13.750000000 100.500000000</br>
-                 13°45′00.0″  100°30′00.0″ </br>
-P1/P2 hae      : -32.000 / -30.000 meter</br>
+Simulated Calibration Baseline
+Scenario       : Wat Sutat
+Reference      : Geod(ellps='WGS84')
+Target P2 at   : 13.750000000 100.500000000
+                 13°45′00.0″  100°30′00.0″
+P1/P2 hae      : -32.000 / -30.000 meter
 </pre>
 ** Table 1 Reference Baseline (decimal degree) **
 
