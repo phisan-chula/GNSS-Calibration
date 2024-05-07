@@ -1,6 +1,6 @@
 # GNSS-Calibration
 <pre>
-This GNSS calibration scheme is partially based on 
+This GNSS calibration scheme is partially based on Technical Specifications for NSW Secondary Control Surveys, New South Wales Government , Spatial Services, Version No. 1.0 April 2021.
 6.1 GNSS Static
 6.1.1. Equipment Specifications
 6.1.2. Observation Procedures
