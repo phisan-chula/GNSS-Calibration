@@ -1,5 +1,13 @@
 # GNSS-Calibration
 <pre>
+This GNSS calibration scheme is partially based on 
+6.1 GNSS Static
+6.1.1. Equipment Specifications
+6.1.2. Observation Procedures
+Minimum observation time per:
+![image](https://github.com/phisan-chula/GNSS-Calibration/assets/1092000/0c6dca1c-1dfa-4e8f-aad0-ae5cc77b0616)
+</pre>
+<pre>
 Simulated Calibration Baseline
 Scenario       : Wat Sutat
 Reference      : Geod(ellps='WGS84')
