@@ -4,7 +4,6 @@ This GNSS calibration scheme is partially based on [Technical Specifications for
 6.1 GNSS Static</br>
 6.1.1. Equipment Specifications</br>
 6.1.2. Observation Procedures</br>
-Minimum observation time per:</br>
 ![ObservTimeTable](ObservTime_NSW2ndControl_v1.png)</br>
 </br>
 <pre>
