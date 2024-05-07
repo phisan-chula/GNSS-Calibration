@@ -1,12 +1,12 @@
 # GNSS-Calibration
-<pre>
+
 [This GNSS calibration scheme is partially based on Technical Specifications for NSW Secondary Control Surveys, New South Wales Government , Spatial Services, Version No. 1.0 April 2021.](https://github.com/phisan-chula/GNSS-Calibration/blob/main/Technical_Specifications_for_NSW_Secondary_Control_Surveys_v1.0.pdf)
-6.1 GNSS Static
-6.1.1. Equipment Specifications
-6.1.2. Observation Procedures
-Minimum observation time per:
-</pre>
-![ObservTimeTable](ObservTime_NSW2ndControl_v1.png)
+6.1 GNSS Static</br>
+6.1.1. Equipment Specifications</br>
+6.1.2. Observation Procedures</br>
+Minimum observation time per:</br>
+![ObservTimeTable](ObservTime_NSW2ndControl_v1.png)</br>
+</br>
 <pre>
 Simulated Calibration Baseline
 Scenario       : Wat Sutat
