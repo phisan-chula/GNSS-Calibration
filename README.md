@@ -6,7 +6,7 @@ This GNSS calibration scheme is partially based on
 6.1.2. Observation Procedures
 Minimum observation time per:
 </pre>
-!([ObservTimeTable](https://github.com/phisan-chula/GNSS-Calibration/blob/main/ObservTime_NSW2ndControl_v1.png)
+!([ObservTimeTable](ObservTime_NSW2ndControl_v1.png)
 <pre>
 Simulated Calibration Baseline
 Scenario       : Wat Sutat
