@@ -1,0 +1,147 @@
+CSRS-PPP 3.54.2 (2022-11-10)
+NTSK_20240325-080553.24O
+Z31136668026451
+Data Start
+
+Data End
+
+Duration of Observations
+
+2024-03-25 08:06:00.00
+
+2024-03-28 08:06:30.00
+
+3 days, 0:00:30
+
+Processing Time
+
+Product Type
+
+03:25:23 UTC 2024/04/29
+
+NRCan/IGS Final
+
+Observations
+
+Frequency
+
+Mode
+
+Phase and Code
+
+Double
+
+Static
+
+Elevation Cut-Off
+
+Rejected Epochs
+
+Fixed Ambiguities
+
+Estimation Steps
+
+7.5 degrees
+
+0.00 %
+
+0.00 %
+
+30.00 sec
+
+Antenna Model
+
+APC to ARP
+
+ARP to Marker
+
+HXCCGX611A HXCM
+
+Unknown
+
+H:1.123m / E:0.000m / N:0.000m
+
+(APC = antenna phase center; ARP = antenna reference point)
+
+Estimated Position for NTSK_20240325-080553.24O
+Latitude (+n)
+
+Longitude (+e)
+
+Ell. Height
+
+ITRF20 (2024.2)
+
+6° 44' 45.51171"
+
+100° 40' 3.35361"
+
+16.128 m
+
+Sigmas(95%)
+
+0.002 m
+
+0.004 m
+
+0.006 m
+
+A priori*
+
+6° 44' 45.46671"
+
+100° 40' 3.29695"
+
+18.777 m
+
+Estimated − A priori
+
+1.382 m
+
+1.740 m
+
+-2.649 m
+
+95% Error Ellipse (mm)
+semi-major: 5 mm
+semi-minor: 2 mm
+semi-major azimuth: -89° 39' 36.54"
+
+UTM (North)
+Zone 47
+
+745982.623 m (N)
+684311.219 m (E)
+Scale Factors
+1.00002046 (point)
+1.00001793 (combined)
+
+*(Coordinates from RINEX header used as a priori position)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+~~~ Disclaimer ~~~
+Natural Resources Canada does not assume any liability deemed to have been caused directly or indirectly
+by any content of its CSRS-PPP online positioning service.
+Use of Canadian Geodetic Survey products and data is subject to the
+Open Government Licence - Canada
+
+If you have any questions, please feel free to contact:
+Canadian Geodetic Survey
+Natural Resources Canada
+Ottawa, Ontario, Canada
+Email: geodeticinformation-informationgeodesique@nrcan-rncan.gc.ca
+
+7
+
+
