@@ -108,7 +108,8 @@ print( dfPPP)
 print( dfPPP[['StdLat', 'StdLng', 'StdHae' ]].describe() )
 
 dfvelo = CalcVelocity( dfPPP )
-print( dfvelo )
+COLS= dfvelo.columns[:-3]
+print( dfvelo[COLS].to_markdown() )
 
 velo_till = str( dfvelo.till_date.min() + (dfvelo.till_date.max() - dfvelo.till_date.min())/2 )
 velo_days = '{:.1f} days'.format( dfvelo.days.mean() )
