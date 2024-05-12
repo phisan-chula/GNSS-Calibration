@@ -1,5 +1,9 @@
 Test PPP_CCRS 
-A three-day GNSS  for geodynamic application
+
+A three-day GNSS field campaign was conducted, collecting data from seven reference points. The continuous GNSS signals are being processed by a CCRN PPP station series.
+
+Thanks to Assoc. Prof. Dr. Passakorn Pananont, Department of Earth Sciences, Kasetsart University.
+
 
 |    | Pnt   | till_date   |   days |   dE_mm |     dN_mm |   dh_mm |   vE_mma |    vN_mma |    vh_mma |
 |---:|:------|:------------|-------:|--------:|----------:|--------:|---------:|----------:|----------:|
