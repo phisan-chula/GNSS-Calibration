@@ -1,4 +1,5 @@
-Test PPP_CCRS for geodynamic application
+Test PPP_CCRS 
+A three-day GNSS  for geodynamic application
 
 |    | Pnt   | till_date   |   days |   dE_mm |     dN_mm |   dh_mm |   vE_mma |    vN_mma |    vh_mma |
 |---:|:------|:------------|-------:|--------:|----------:|--------:|---------:|----------:|----------:|
