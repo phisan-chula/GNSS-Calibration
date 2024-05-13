@@ -96,7 +96,8 @@ def PlotVelociy( dfVELO, TITLE, VERT=False ):
 
     
 ##################################################################
-#PDF = 'GNSS_StressModelling/NTSK_20240325-080553.pdf'
+from pathlib import Path
+Path.mkdir( Path('./CACHE' ), parents=True, exist_ok=True)
 ppp = list()
 for pdf in Path('./GNSS_StressModelling/').glob('*.pdf'):
     data = GetResultPPP( pdf )
@@ -117,5 +118,4 @@ velo_days = '{:.1f} days'.format( dfvelo.days.mean() )
 PlotVelociy( dfvelo, TITLE=f'Horizontal Stress Velocity on {velo_till} from PPP/GNSS {velo_days}', VERT=False )
 PlotVelociy( dfvelo, TITLE=f'Vertical Stress Velocity on {velo_till} from PPP/GNSS {velo_days}', VERT=True )
 ######################################################
-
-import pdb ; pdb.set_trace()
+#import pdb ; pdb.set_trace()
