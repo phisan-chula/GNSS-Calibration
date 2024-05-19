@@ -11,8 +11,8 @@ Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...
 ![alt text](https://github.com/phisan-chula/GNSS-Calibration/blob/main/BaselinePlanning/Baseline_AWLK_TPKT.png)
 ![alt text](https://github.com/phisan-chula/GNSS-Calibration/blob/main/BaselinePlanning/Baseline_NKBI_ATRG.png)
 
-# Case : 2 receivers "CHC-1" and "CHC-2"
-#Table : Sessions for GNSS occupation 
+### Case : 2 receivers "CHC-1" and "CHC-2"
+### Table : Sessions for GNSS occupation 
 |    | Loop    |   Day | Begin   | End   |   Duration | CHC-1   | CHC-2   |
 |---:|:--------|------:|:--------|:------|-----------:|:--------|:--------|
 |  0 | Aowluke |     1 | 08:00   | 08:20 |         20 | P-19    | P-20    |
