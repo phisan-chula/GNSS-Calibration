@@ -8,6 +8,8 @@ transport time:  60 minutes
 Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...
 </p>
 
+![alt text](https://github.com/phisan-chula/GNSS-Calibration/blob/main/BaselinePlanning/Baseline_AWLK_TPKT.png)
+
 #Table : Sessions for GNSS occupation 
 |    | Loop    |   Day | Begin   | End   |   Duration | CHC-1   | CHC-2   |
 |---:|:--------|------:|:--------|:------|-----------:|:--------|:--------|
