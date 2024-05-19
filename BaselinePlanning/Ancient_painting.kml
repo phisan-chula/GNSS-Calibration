@@ -1,0 +1,4402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Ancient_painting" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Ancient_painting</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>Layer0_Symbol_13452058_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Ancient_painting</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>เกาะปันหยี</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เกาะปันหยี</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เกาะปันหยี</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.เกาะปันหยี อ.เมือง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>445298</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>921801</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล เรือ ปลา เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.50319501361498,8.338922824108693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>ถ้ำนาค</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ถ้ำนาค</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>ถ้ำนาค</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.กระโสม อ.ตะกั่วทุ่ง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>442037</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>922215</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล เรือ ปลา เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>กระดูกมนุษย์ กระดูกสัตว์ชิ้นส่วนภาชนะดินเผา เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.47357434777393,8.342629263203065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>เขารายา (เขาระย้า)</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขารายา (เขาระย้า)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขารายา (เขาระย้า)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.เกาะปันหยี อ.เมือง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>443222</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>924579</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ เรขาคณิต สัญลักษณ์</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.48430825867356,8.364025851373272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>เขาเขียน 1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาเขียน 1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาเขียน 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.เกาะปันหยี อ.เมือง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>445312</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>922529</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล ปลา เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง  ส้มเหลือง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.50331384304668,8.345507786541482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>เขาเขียน 2</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาเขียน 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาเขียน 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.เกาะปันหยี อ.เมือง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>445343</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>923952</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล ปลา เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง  ส้มเหลือง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.50357911855305,8.358379252927897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>เขาพระอาดเฒ่า</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาพระอาดเฒ่า</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาพระอาดเฒ่า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.คลองเคียน อ.ตะกั่วทุ่ง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>440898</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>910413</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล ปลา กุ้ง เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>กระดูกมนุษย์ ชิ้นส่วนภาชนะดินเผา - เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.46337487841438,8.235865996867842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>เกาะทะลุนอก</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เกาะทะลุนอก</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เกาะทะลุนอก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.กะไหล อ.ตะกั่วทุ่ง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>442703</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>917648</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล วัว ปลาเรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.47967737166645,8.301328572184993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>เกาะเขาเต่า</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เกาะเขาเต่า</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เกาะเขาเต่า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.กระโสม อ.ตะกั่วทุ่ง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>441836</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>920011</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล เรือ สัตว์ เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.47177564286753,8.322691613760092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>ถ้ำนกกระเรียน</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ถ้ำนกกระเรียน</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>9</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>ถ้ำนกกระเรียน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.กะไหล  อ.ตะกั่วทุ่ง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>444049</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>911372</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>ลายเส้น</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.4919729796102,8.244577458036279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>เกาะไข่</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เกาะไข่</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เกาะไข่</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.กะไหล อ.ตะกั่วทุ่ง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>446102</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>912530</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>ลายเส้น</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.51060056250098,8.255074875098364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>เกาะยางแดง</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เกาะยางแดง</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>11</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เกาะยางแดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.กะไหล อ.ตะกั่วทุ่ง จ.พังงา</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>443603</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>913846</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>พืช/ดอกไม้ ลายเส้น</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.4878946440799,8.266949828533953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>ถ้ำผีหัวโต</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ถ้ำผีหัวโต</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>12</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>ถ้ำผีหัวโต</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.อ่าวลึกใต้ อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>465504</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>926510</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล มือ สัตว์ เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำเหลือง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>กระดูกมนุษย์ เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.68666999530397,8.38170433058618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>เขาตีบนุ้ย</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาตีบนุ้ย</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>13</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาตีบนุ้ย</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.แหลมสัก อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>462145</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>925012</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>ชิ้นส่วนภาชนะดินเผา  เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.65617217427503,8.368129188051782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>เขาเกาะยอ 1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาเกาะยอ 1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาเกาะยอ 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.แหลมสัก อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>459935</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>922114</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ เรขาคณิต - เรือ (ประวัติศาสตร์)</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ส้ม ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>ชิ้นส่วนภาชนะดินเผา</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.63612383771647,8.341898196097064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>เขาเกาะยอ 2</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาเกาะยอ 2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาเกาะยอ 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.แหลมสัก อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>460184</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>922201</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ เรขาคณิต - เรือ (ประวัติศาสตร์)</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ส้ม ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>ชิ้นส่วนภาชนะดินเผา</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.63838453747931,8.342687199004429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>เขาเกาะยอ 3</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาเกาะยอ 3</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>16</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาเกาะยอ 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.แหลมสัก อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>460201</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>922234</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ เรขาคณิต - เรือ (ประวัติศาสตร์)</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ส้ม ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>ชิ้นส่วนภาชนะดินเผา</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.63853865782553,8.342985832047258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>แหลมไฟไหม้</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แหลมไฟไหม้</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>แหลมไฟไหม้</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.แหลมสัก อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>459003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>919237</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.62768399429504,8.315867254013812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>เพิงผาพระเจ้า</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เพิงผาพระเจ้า</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เพิงผาพระเจ้า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.แหลมสัก อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>459035</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>918521</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล เรขาคณิต เรือ (ยุคประวัติศาสตร์)</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>กระดูกสัตว์ เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.62798070335199,8.309391146309064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>แหลมชาวเล</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แหลมชาวเล</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>19</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>แหลมชาวเล</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.แหลมสัก อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>459839</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>914828</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.63531282991637,8.275993834164858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>ถ้ำชาวเล</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ถ้ำชาวเล</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>ถ้ำชาวเล</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.แหลมสัก อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>459903</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>914929</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.63589314319204,8.276907934114515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>เขาช่องลม 1 (สีปูเต๊ะ)</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาช่องลม 1 (สีปูเต๊ะ)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาช่องลม 1 (สีปูเต๊ะ)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.อ่าวลึกน้อย อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>469508</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>920152</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล เรขาคณิต - บุคคล สัตว์ ช้างเรขาคณิต - เรือ</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำ - แดง น้ำตาล ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>ชิ้นส่วนภาชนะดินเผา  เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.72307889408324,8.324221571048064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>เขาช่องลม 3 (เพิงผาพรุตีมะ)</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาช่องลม 3 (เพิงผาพรุตีมะ)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาช่องลม 3 (เพิงผาพรุตีมะ)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.อ่าวลึกน้อย อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>470050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>919858</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล เรขาคณิต - บุคคล สัตว์ ช้างเรขาคณิต - เรือ</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำ - แดง น้ำตาล ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>ชิ้นส่วนภาชนะดินเผา  เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.72800300586316,8.321565650575096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>เขาม้า</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาม้า</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาม้า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.อ่าวลึกน้อย อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>466970</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>915146</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.70006395099669,8.278924091581587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>แหลมท้ายแรด (กาโรส)</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>แหลมท้ายแรด (กาโรส)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>24</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>แหลมท้ายแรด (กาโรส)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.อ่าวลึกน้อย อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>468970</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>909211</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.71826326425875,8.225253269004313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>เขาหน้ามันแดง</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาหน้ามันแดง</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>25</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาหน้ามันแดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.อ่าวลึกเหนือ อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>475459</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>926656</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ วัวเรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>เครื่องมือหิน กระดูกสัตว์ เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.77709076286834,8.38308636977186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>เขาขาว 1 (ถ้ำโนราห์)</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาขาว 1 (ถ้ำโนราห์)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>26</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาขาว 1 (ถ้ำโนราห์)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.บ้านกลาง อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>479202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>922752</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>เครื่องมือหิน กระดูกมนุษย์ กระดูกสัตว์ เปลือกหอย ชิ้นส่วนภาชนะดินเผา   ลูกปัดหิน</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.81110581081991,8.347791096308233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>เขาขาว 3 (ถ้ำช้างนอก)</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาขาว 3 (ถ้ำช้างนอก)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>27</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาขาว 3 (ถ้ำช้างนอก)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.บ้านกลาง อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>479312</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>923384</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>เครื่องมือหิน กระดูกมนุษย์ กระดูกสัตว์ เปลือกหอย ชิ้นส่วนภาชนะดินเผา   ลูกปัดหิน</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.81210212901229,8.353508231615823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>ผาขาว</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ผาขาว</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>28</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>ผาขาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.แหลมสัก อ.อ่าวลึก จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>464646</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>924202</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>สัตว์ เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>กระดูกสัตว์ เปลือกหอย ชิ้นส่วนภาชนะดินเผา เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.67889389834436,8.360821641166334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>เขาเขียนในสระ</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาเขียนในสระ</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาเขียนในสระ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.เขาทอง อ.เมือง จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>476132</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>902783</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>98.78332170847133,8.167149738535297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>เกาะหลักใหญ่</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เกาะหลักใหญ่</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>30</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เกาะหลักใหญ่</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.เกาะศรีบอยา อ.เหนือคลอง จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>505321</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>870776</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>ถ้ำ  เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ ช้างเรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง ดำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>กระดูกสัตว์ชิ้นส่วนภาชนะดินเผา</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>99.04827100873491,7.877684225244169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>เกาะร่าปูเล 1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เกาะร่าปูเล 1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>31</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เกาะร่าปูเล 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.เกาะกลาง อ.เกาะลันตา จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>512938</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>852241</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ ปลา เต่า เรือ เรขาคณิต - ปลา</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>ชิ้นส่วนภาชนะดินเผา ชิ้นส่วนกระดูกมนุษย์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>99.11732409190603,7.710009936064601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>เกาะร่าปูเล 3</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เกาะร่าปูเล 3</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>32</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เกาะร่าปูเล 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.เกาะกลาง อ.เกาะลันตา จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>512803</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>851293</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ ปลา เต่า เรือ เรขาคณิต - ปลา</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-ชิ้นส่วนภาชนะดินเผา ชิ้นส่วนกระดูกมนุษย์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>99.11609755389044,7.701434982506309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>เกาะร่าปูพัง</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เกาะร่าปูพัง</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>33</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เกาะร่าปูพัง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.เกาะกลาง อ.เกาะลันตา จ.กระบี่</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>512863</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>853586</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>สัตว์ เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>99.11664731341716,7.722176530754876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>เขาแบนะ</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>เขาแบนะ</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>34</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>เขาแบนะ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.ไม้ฝาด อ.สิเกา  จ.ตรัง</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>537755</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>819440</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>สัตว์ เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>-</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>99.34213350857675,7.413185118693542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>อ่าวบุญคง</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>อ่าวบุญคง</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ลำด</td>
+
+<td>35</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>อ่าวบุญคง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Locate</td>
+
+<td>ต.ไม้ฝาด อ.สิเกา  จ.ตรัง</td>
+
+</tr>
+
+<tr>
+
+<td>EastGrid</td>
+
+<td>532696</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NorthGrid</td>
+
+<td>831127</td>
+
+</tr>
+
+<tr>
+
+<td>Morpho</td>
+
+<td>เพิงผา</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Painting</td>
+
+<td>บุคคล สัตว์ ปลา เรขาคณิต</td>
+
+</tr>
+
+<tr>
+
+<td>Color</td>
+
+<td>แดง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Archaeolog</td>
+
+<td>กระดูกมนุษย์ - ชิ้นส่วนภาชนะดินเผา - เปลือกหอย</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>99.29636079022919,7.518934619612072,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

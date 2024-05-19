@@ -1,0 +1,22 @@
+#
+#
+#
+project   = "Pangna Rock Art Project"
+point_kml = 'Ancient_painting.kml'
+
+receiver = [ 'CHC-1', 'CHC-2' ]
+#receiver = [ 'HAXX' , 'CHC-1', 'CHC-2' ]
+begin  = "08:00"  
+end    = "16:30"  # clock at the last session   
+travel = 60    # travel time between session in minutes
+
+[network]
+Punyee = [ 'TPKT', 'P-6','P-9','P-10','P-1', 'P-4', 'P-5', 'P-3', 
+             'P-2', 'P-8', 'P-7','P-11', 'P-6' ]
+link-1 = [ 'P-1','P-14' ]
+link-2 = [ 'P-10','P-19' ]
+Aowluke = [ 'P-19', 'P-20','P-23', 'P-21', 'P-22', 'P-26',
+         'P-27', 'P-25', 'AWLK', 'P-12', 'P-28', 'P-13',
+         'P-16', 'P-15', 'P-14','P-17','P-18', 'P-19', 'P-20']
+DOH44 = [ 'P-23', 'P-24', 'P-29', 'P-26' ]
+Lanta = [ 'NKBI', 'P-30', 'P-33', 'P-31', 'P-32', 'P-35', 'P-34', 'ATRG' ]
