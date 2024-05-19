@@ -8,7 +8,8 @@ transport time:  60 minutes
 Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...
  GNSS Occupation Session 
 
-|  n | Loop    |   Day | Begin   | End   |   Duration | CHC-1   | CHC-2   |
+Table : Sessions for GNSS occupation 
+|    | Loop    |   Day | Begin   | End   |   Duration | CHC-1   | CHC-2   |
 |---:|:--------|------:|:--------|:------|-----------:|:--------|:--------|
 |  0 | Aowluke |     1 | 08:00   | 08:20 |         20 | P-19    | P-20    |
 |  1 | Aowluke |     1 | 09:20   | 09:44 |         24 | P-20    | P-23    |
@@ -53,6 +54,8 @@ Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...
 | 40 | link-1  |     6 | 14:40   | 15:19 |         39 | P-1     | P-14    |
 | 41 | link-2  |     6 | 16:19   | 16:57 |         38 | P-10    | P-19    |
 
+
+Table : Sessions for GNSS occupation with locations
 |    |   Duration | CHC-1   | CHC-2   | locations                                         |
 |---:|-----------:|:--------|:--------|:--------------------------------------------------|
 |  0 |         20 | P-19    | P-20    | ['แหลมชาวเล', 'ถ้ำชาวเล']                          |
@@ -98,6 +101,7 @@ Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...
 | 40 |         39 | P-1     | P-14    | ['เกาะปันหยี', 'เขาเกาะยอ 1']                       |
 | 41 |         38 | P-10    | P-19    | ['เกาะไข่', 'แหลมชาวเล']                           |
 
+Table : Associated NCDC CORS stations.
 |    | STA   |               X |               Y |               Z | epoch            |
 |---:|:------|----------------:|----------------:|----------------:|:-----------------|
 |  3 | ATRG  |    -1044225.206 |     6238038.716 |      820026.993 | ITRF2014@2021.93 |
