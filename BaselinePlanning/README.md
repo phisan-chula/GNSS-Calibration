@@ -66,10 +66,11 @@ Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...
 | 41 | link-2  |     6 | 16:19   | 16:57 |         38 | P-10    | P-19    |
 
 ### Case : 3 receivers "HAXX" , "CHC-1" and "CHC-2"
-Receivers:  ['HAXX', 'CHC-1', 'CHC-2']
-Work Hour:  08:00 to 16:30
-Transport time:  60 minutes
-Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...
+Receivers:  ['HAXX', 'CHC-1', 'CHC-2']  
+Work Hour:  08:00 to 16:30  
+Transport time:  60 minutes  
+Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...  
+
 ### Table : Sessions for GNSS occupation
 =========================== GNSS Occupation Session ========================
 |    | Loop    |   Day | Begin   | End   |   Duration | HAXX   | CHC-1   | CHC-2   |
