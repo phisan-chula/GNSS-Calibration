@@ -1,11 +1,11 @@
 ## GNSS Baseline Planning
 
-Project:   Pangna Rock Art Project
-PointKML:  Ancient_painting.kml
-Receivers:  ['CHC-1', 'CHC-2']
-Work Hour:  08:00 16:30
-transport time:  60 minutes
-Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...
+Project:   Pangna Rock Art Project  
+PointKML:  Ancient_painting.kml  
+Receivers:  ['CHC-1', 'CHC-2']  
+Work Hour:  08:00 16:30  
+transport time:  60 minutes  
+Plotting baseline ./CACHE/RockArt_Baseline.gpkg ...  
 
 
 ![alt text](https://github.com/phisan-chula/GNSS-Calibration/blob/main/BaselinePlanning/Baseline_AWLK_TPKT.png)
